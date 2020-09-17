@@ -7,4 +7,4 @@ Aluno: Fernando Ribeiro
 
 ### Inserindo uma imagem
 
-![Python logo](https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png widht=20)
+![Python logo](https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png)
