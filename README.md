@@ -1,4 +1,4 @@
-# Site de exemplo da disciplia ARQB39
+# Site de exemplo da disciplina ARQB39
 
 Aluno: Fernando Ribeiro
 
@@ -7,4 +7,8 @@ Aluno: Fernando Ribeiro
 
 ### Inserindo uma imagem
 
-![Python logo](https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png)
+
+![python_logo](./figs/Python_logo_icon.png)
+
+### Upload de arquivos
+  
